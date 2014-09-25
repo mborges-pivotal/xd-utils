@@ -1,0 +1,9 @@
+# Apple
+.DS_Store
+
+# Eclipse Files
+*/.settings
+.metadata
+
+# Maven build directories
+*/target
